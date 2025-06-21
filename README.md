@@ -22,10 +22,9 @@ Ikuti langkah-langkah di bawah ini untuk mengkloning, menginstal dependensi, dan
 Buka terminal Anda dan jalankan perintah berikut untuk mengkloning repositori ke mesin Anda:
 
 ```bash
-git clone <URL_REPOSITORI_ANDA>
-cd <NAMA_FOLDER_PROYEK>
+git clone https://github.com/gustygnm/gemini-ai-api-project.git
+cd gemini-ai-api-project
 ```
-*Ganti `<URL_REPOSITORI_ANDA>` dengan URL repositori Git Anda dan `<NAMA_FOLDER_PROYEK>` dengan nama direktori proyek.*
 
 ### 2. Instal Dependensi
 
